@@ -1,7 +1,3 @@
-# #__RequestVerificationToken=Tif0DCpUNRxtUrR_nSppxlnD_52Y2j6OcL6n9kpNK2mlV_ZaSO1ACzbSBDvcdZQUo2sg3q1V1_fxZfKtgdZaEHHiUmQ1&UserName=L148086957%40taalim.ma&Password=csdsadas
-# #_ga=GA1.3.1272372406.1673734520; __RequestVerificationToken_L21vdXRhbWFkcmlz0=U_H754mvtliz2oRVYhLyIFNvJ_XU7MGwUpsKy7Zo30pJMkj-rqNzNOH_TdMW5G0nAYwwZB95XAuMwoHiBQj5HnM1PEo1; _gid=GA1.3.909540211.1680143367; ASP.NET_SessionId=; _gat=1
-# #_ga=GA1.3.1272372406.1673734520; __RequestVerificationToken_L21vdXRhbWFkcmlz0=U_H754mvtliz2oRVYhLyIFNvJ_XU7MGwUpsKy7Zo30pJMkj-rqNzNOH_TdMW5G0nAYwwZB95XAuMwoHiBQj5HnM1PEo1; _gid=GA1.3.909540211.1680143367; ASP.NET_SessionId=nstazaw12wgjqx0wzq0emrnp; _gat=1
-# #U_H754mvtliz2oRVYhLyIFNvJ_XU7MGwUpsKy7Zo30pJMkj-rqNzNOH_TdMW5G0nAYwwZB95XAuMwoHiBQj5HnM1PEo1
 import requests
 from bs4 import BeautifulSoup
 import argparse
