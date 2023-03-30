@@ -35,4 +35,4 @@ if args.user is not None and args.wordlist is not None:
             print('the credetials is incorrect !! {}:{}'.format(args.user,password))
     
 else:
-    os.system('python {}'.format(sys.argv[0]))
+    os.system('python {} -h'.format(sys.argv[0]))
