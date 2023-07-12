@@ -25,7 +25,7 @@ if args.user is not None and args.wordlist is not None:
         OKGREEN = '\033[92m'
         p = s.post(url,data=params)
         if "أستعد لإختبار السلامة الطرقية" in p.text:
-            print('{}the credetials is correct !! {}:{}{}'.format(OKGREEN,args.user,password,'\033[0m'))
+            print('{}the credentials is correct !! {}:{}{}'.format(OKGREEN,args.user,password,'\033[0m'))
             break
         else:
             print('the credetials is incorrect !! {}:{}'.format(args.user,password))
